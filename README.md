@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects & learning Cloud<br>👯 I’m looking to collaborate on Open Source & Development Projects<br>🤝 I’m looking for help with Cloud Computing & Advanced Development<br>🌱 I’m currently learning AWS S3, DevOps & Data Structures<br>💬 Ask me about Java, SQL, Git, GitHub<br>⚡ Fun fact: Coffee + code = questionable decisions and surprisingly good projects
 
-<h3 align="left">🌐Connect with me:</h3>
+🌐Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankitpandey260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankitpandey260/" height="30" width="40" /></a>
 <a href="https://instagram.com/26.ankk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="26.ankk" height="30" width="40" /></a>
